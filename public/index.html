@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Midline</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <main class="layout">
+      <section class="panel">
+        <div class="panel-head">
+          <h1>Midline</h1>
+          <button id="themeBtn" class="theme-btn" type="button">Theme</button>
+        </div>
+        <select id="themePicker" class="theme-picker" aria-hidden="true" tabindex="-1">
+          <option value="midnight-classic" selected>Midnight Classic</option>
+          <option value="solarized-slate">Solarized Slate</option>
+          <option value="paper-copper">Paper Copper</option>
+          <option value="forest-console">Forest Console</option>
+        </select>
+        <p class="subhead">Keep your focus relaxed while text flows right to left.</p>
+
+        <section class="card">
+          <h2>Paste Text</h2>
+          <textarea id="pasteInput" placeholder="Paste your text here..."></textarea>
+          <div class="row">
+            <button id="usePasteBtn" class="primary">Use Pasted Text</button>
+            <button id="clearPasteBtn">Clear</button>
+          </div>
+        </section>
+
+        <section class="card">
+          <h2>Load .txt Sources</h2>
+          <p class="hint">Folder: <code>.txt sources</code></p>
+          <select id="sourceSelect" size="6" aria-label="Text source files"></select>
+          <div class="row">
+            <button id="refreshSourcesBtn">Refresh</button>
+            <button id="loadSourceBtn" class="primary">Load Selected</button>
+          </div>
+        </section>
+
+        <section class="card">
+          <h2>Playback</h2>
+          <label class="control">
+            <span>Speed</span>
+            <input id="speedRange" type="range" min="40" max="900" value="220" />
+            <output id="speedValue">220 px/s</output>
+          </label>
+          <label class="control">
+            <span>Font Size</span>
+            <input id="fontRange" type="range" min="24" max="96" value="56" />
+            <output id="fontValue">56 px</output>
+          </label>
+          <label class="tiny-loop" for="loopToggle">
+            <input id="loopToggle" type="checkbox" />
+            <span>Loop</span>
+          </label>
+          <div class="row">
+            <button id="startBtn" class="primary">Start</button>
+            <button id="pauseBtn">Pause</button>
+            <button id="resetBtn">Reset</button>
+          </div>
+          <p id="status" class="status">Paste text or load a file to begin.</p>
+        </section>
+      </section>
+
+      <section class="viewer" aria-label="Scrolling text viewer">
+        <div id="stage" class="stage">
+          <div class="stage-glow"></div>
+          <div id="movingText" class="moving-text"></div>
+        </div>
+        <p class="viewer-help">Space key: Start/Pause</p>
+      </section>
+    </main>
+    <script src="./app.js"></script>
+  </body>
+</html>

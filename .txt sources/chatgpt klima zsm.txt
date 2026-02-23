@@ -1,0 +1,316 @@
+Unten ist eine **sehr detaillierte, lernorientierte Übersicht** über den **2. Teil des Moduls (Klima)** – entlang der Vorlesungen/Dateien **Klima_01 bis Klima_07** (plus kurze Klammer zu prüfungsrelevanten Meta-Punkten).
+
+---
+
+## Klima_01 – Klimasystem & Allgemeine Zirkulation
+
+### 1) Wetter, Witterung, Klima (Begriffe + Statistik)
+
+* **Wetter** = aktueller Zustand der Atmosphäre an einem Ort.
+* **Witterung** = „mittleres Wetter“ über Tage bis Wochen.
+* **Klima** = *statistische Beschreibung* (Mittelwerte, Variabilität/Varianz, Extreme) relevanter Größen über Zeiträume von **Monaten bis (sehr) viele Jahre**; „klassisch“ wird oft eine **30-jährige Klima-Normalperiode** verwendet. 
+* **Klima-Normalperioden (WMO)**:
+
+  * 30 Jahre; früher feste Blöcke (z. B. **1961–1990**, **1991–2020**), heute auch rollierend/alle 10 Jahre neu möglich (z. B. **1971–2000**, **1981–2010**).
+  * Wichtig: **immer Referenzzeitraum nennen**, weil sich „Anomalien“/Vergleiche sonst ändern. 
+
+### 2) Klimaelemente vs. Klimafaktoren
+
+* **Klimaelemente** = mess-/beobachtbare meteorologische Größen (z. B. Lufttemperatur, Niederschlag, Wind, Luftfeuchte, Strahlung, Bewölkung, Luftdruck …). 
+* **Klimafaktoren** = steuernde Rahmenbedingungen/Prozesse (Breite, Höhe, Relief, Vegetation, Boden, Entfernung zum Meer, Land-Meer-Verteilung, Schnee/Eis, Landnutzung …). 
+
+### 3) Klimasystem: Komponenten + Kopplungen
+
+* Klimasystem als gekoppeltes System (Atmosphäre, Ozean/Hydrosphäre, Kryosphäre, Land/Lithosphäre, Biosphäre – plus anthropogene Einflüsse).
+* **Wechselwirkungen/Kopplungen** laufen über
+
+  * **Massenaustausch** (z. B. Wasserdampf/CO₂-Austausch),
+  * **Energieaustausch** (Strahlung, turbulente Flüsse),
+  * **Impulsaustausch** (Windstress, Reibung). 
+
+### 4) Skalen (wichtig fürs Klima-Verständnis)
+
+* Atmosphäre arbeitet auf vielen Skalen (Mikro–Meso–Makro); Klima „aggregiert“ Wetterstatistik über längere Zeit/oft größere Räume. 
+
+### 5) Globaler Strahlungs- & Energiehaushalt → Grund für Zirkulation
+
+* Globaler Strahlungs-/Energiehaushalt als Basis: **zonal ungleich verteilte Strahlungsbilanz** (Tropen Energieüberschuss, hohe Breiten Defizit).
+* Konsequenz: Es braucht **Wärmetransport vom Äquator zu den Polen** – durch **Atmosphäre UND Ozean**. 
+
+### 6) Ozeanische Zirkulation (zwei „Ebenen“)
+
+* **Oberflächennahe Zirkulation** (Gyren/Strömungen) + typische SST-Muster. 
+* **Thermohaline Zirkulation** (dichtegetrieben, „global conveyor belt“). 
+* **Ozean–Atmosphäre-Kopplung** u. a. im **globalen Wasserkreislauf**. 
+
+### 7) Allgemeine Zirkulation der Atmosphäre (AZA)
+
+* Didaktische Schritte:
+
+  * erst „Wasserplanet ohne Rotation“ (eine große thermische Zelle),
+  * dann Rotation → Coriolis → Aufspaltung/Strukturierung der Zirkulation. 
+* Ergebnis: **Druckgürtel/Windsysteme**, **ITCZ**, subtropische Hochdruckgürtel etc.; global beobachtbar in Karten (MSLP, Wind, Niederschlag, Temperatur, Meereis). 
+
+---
+
+## Klima_02 – Tropische & außertropische Zirkulation
+
+### 1) Tropen: Hadley/Passate/ITCZ
+
+* **Passatzirkulation**: bodennaher Rückstrom in die ITCZ + Aufsteigen/Konvektion dort. 
+* **Passat-Inversion**:
+
+  * entsteht im **absinkenden Ast** der Hadley-Zelle (trockenadiabatische Erwärmung) vs. aufsteigender Ast (feuchtadiabatische Abkühlung) → ausgeprägte Inversionsschicht. 
+* **Saisonale ITCZ-Verschiebung** (NH-Sommer vs. NH-Winter) steuert saisonale Niederschlagsmuster. 
+
+### 2) Monsun (Prinzip)
+
+* **Monsun** = großräumige Zirkulation in Tropen/Subtropen mit **jahreszeitlich wechselnden Winden & Niederschlägen** (Sommer meist nass, Winter trockener) – stark gekoppelt an die **ITCZ-Verschiebung**. 
+* Beispiel **Südostasiatischer Monsun** wird als wichtiges Muster vertieft. 
+
+### 3) Walker-Zirkulation & Southern Oscillation (Grundlage für ENSO)
+
+* **Äquatoriale Zonalzirkulation/Walker-Zelle**: getrieben durch Luftdruckunterschiede Ost- vs. Westpazifik; **Southern Oscillation** als normierte Druckdifferenz (Tahiti–Darwin). 
+
+### 4) Außertropen: Jetstreams, Rossby-Wellen, Polarfrontzyklonen
+
+* **Jetstreams**
+
+  * Polarjet ~ **40–60°**, typ. **250–300 hPa**
+  * Subtropenjet ~ **20–30°**, typ. **150–200 hPa** 
+* **Rossby-Wellen**
+
+  * planetare Wellen, entstehen durch Störung des zonalen Jets (u. a. Kontinente/Orografie),
+  * wandern W→E,
+  * typisch **5–8 Wellen**; zentral für **meridionalen Wärmetransport** und Frontaktivität. 
+* **Polarfrontzyklon (Lebenszyklus)**
+
+  * stationäre Front → Wellenstörung → Reifestadium → (Teil-)Okklusion → Okklusion,
+  * sorgt für **intensiven Austausch warmer/kalter Luftmassen** und damit Wärmetransport. 
+
+### 5) Regionale Zirkulationen (Meso-/Lokalskala)
+
+* **Land-See-Wind**: Schönwetterlage, wenig Wolken, schwacher synoptischer Wind; tagesperiodisch durch unterschiedliche Erwärmung → thermische Hoch/Tief + Zirkulationsrad (typ. 2–4 km). 
+* **Hang-/Berg-Tal-Winde**: tagesperiodisch; reale Muster abhängig von Exposition, Vegetation, Boden etc. 
+
+---
+
+## Klima_03 – Klimaklassifikation & Klimazonen
+
+### 1) Warum klassifizieren?
+
+* Ziel: Erde in **Klimaregionen mit vergleichbarem Klima** einteilen; Grundprinzip: **„so wenige Klassen wie möglich, so viele wie nötig“**. 
+* **Klimazonen** (solare/thermische Zonen) sind nützlich, aber **keine vollständige Klimabeschreibung**. 
+
+### 2) Genetisch vs. effektiv
+
+* **Genetische Klassifikation**: nach *Ursachen/Prozessen* (Zirkulationsregime), z. B. Flohn/Neef. 
+* **Effektive Klassifikation**: nach *Klimaelementen/Wirkungen*, z. B. Köppen-Geiger. 
+
+### 3) Flohn (genetisch) – Zirkulationsbasierte Klimaräume
+
+* Vier zonal-globale Zirkulationssysteme (inkl. Übergangsklimate) als Grundlage der Einteilung. 
+
+### 4) Köppen-Geiger (effektiv) – Schwellenwertsystem
+
+* Idee: „abstrakte Klimate“, die reale Verhältnisse abbilden; **Schwellenwerte** von Klimaelementen → **5 Hauptklassen (A–E)** + viele Subtypen, codiert als 2–3 Buchstaben (z. B. **Dfa**). 
+
+#### (a) 3. Buchstabe (thermische Differenzierung)
+
+* **a**: heißer Sommer (Thot > 22 °C)
+* **b**: warmer Sommer (Thot < 22 °C, mind. 4 Monate T > 10 °C)
+* **c**: kühler Sommer (Thot < 22 °C, 1–3 Monate T > 10 °C)
+* **d**: strenger Winter (Tcold < −38 °C; nur D-Klimate)
+* **h/k**: heiß/kalt (nur B-Klimate; über Tann >/< 18 °C) 
+
+#### (b) Niederschlags-Saisonalität (2. Buchstabe, Prinzip)
+
+* Trocken-/Feucht-Kriterien über trockensten vs. feuchtesten Monat, getrennt nach Sommer/Winter (s/w) und Schwellen wie **Pwdry < Pswet/10** etc. 
+
+#### (c) Praxis: „Berlin = ???“
+
+* Es wird exemplarisch gezeigt, wie man aus Monatswerten (T, P) den Köppen-Geiger-Typ eines Ortes bestimmt. 
+
+### 5) Klimawandel & Verschiebung der Klassen
+
+* Karten/Beispiele zur **Verschiebung von Köppen-Geiger-Klimatypen** unter Szenarien (z. B. SSP2-4.5). 
+
+---
+
+## Klima_04 – Klimavariabilität
+
+### 1) Grundidee: Schwankungen auf vielen Skalen
+
+* Klimavariabilität = Schwankungen des Klimasystems über **verschiedene Zeit- und Raumskalen**; häufig getrennt in:
+
+  * **extern** (Forcings, z. B. Solar/Erdbahn/anthropogen),
+  * **intern** (Systemdynamik; oft „chaotischer“ Charakter; Ozean/Eis/Atmosphäre). 
+
+### 2) ENSO (El Niño Southern Oscillation) – Ozean-Atmosphäre-Kopplung
+
+* ENSO = gekoppelte Änderung von **SST-Mustern im tropischen Pazifik** (El Niño/La Niña/Normal) + atmosphärische Southern Oscillation. 
+* **Telekonnektionen**: ENSO wirkt nicht nur regional, sondern global (Zirkulation, Niederschläge, Temperaturmuster). 
+* **ENSO-Indizes**:
+
+  * z. B. Niño-Regionen-Indizes,
+  * **MEI.v2** als multivariater Index (u. a. Luftdruck, SST, Wind, terrestrische Ausstrahlung; Region 30°S–30°N / 100°E–70°W). 
+* Zusammenhang ENSO ↔ globale Temperaturabweichungen wird explizit gezeigt. 
+
+### 3) PDO (Pacific Decadal Oscillation) – dekadische Variabilität
+
+* Wiederkehrendes Muster der Ozeantemperatur im Nordpazifik, typ. **20–30 Jahre**; beeinflusst u. a. Jetstreams/Wetter und moduliert globale Temperaturphasen. 
+
+### 4) NAO & AO – atlantisch/arktische Moden
+
+* **NAO**: Schwankung des Druckgradienten **Islandtief ↔ Azorenhoch**, steuert Stärke der Westwinddrift; standardisierte Druckdifferenz (Azoren/Portugal vs. Island), besonders relevant im Winter. 
+* **AO (Arctic Oscillation)**: Druckschwankungen zwischen Arktis und mittleren Breiten; gekoppelt an Jet-Stärke:
+
+  * AO+ → stabiler/starker Polarjet,
+  * AO− → schwächerer Jet → Kaltluftvorstöße weiter nach Süden. 
+
+---
+
+## Klima_05 – Wetter- & Klimaereignisse (Extreme)
+
+### 1) Wetterextreme vs. Klimaextreme (Zeitmaßstab + Probleme)
+
+* **Wetterereignisse/Wetterextreme**: selten, hohe gesellschaftliche Wirkung; Dauer **Minuten bis Tage** (teils Wochen); Beispiele: Stürme, Starkniederschläge. Problem: oft schwer vorherzusagen bzgl. Beginn/Dauer/Intensität/Lage. 
+* **Klimaereignisse/Klimaextreme**: seltene Episoden *anormaler Klimabedingungen*; Dauer **Wochen bis Jahrhunderte**; Beispiele: Dürren, zusammengesetzte Ereignisse (z. B. Hitzewelle → Dürre). 
+
+### 2) Tropische Wirbelstürme
+
+* Behandelt werden: globale Verteilung/Zugbahnen, Wiederkehr-/Trends, Schäden. 
+* **Entstehungsbedingungen (Kernliste)**:
+
+  * hohe SST **> 26–26.5 °C** (mit hinreichender Warmwasserschicht),
+  * ausreichende Corioliskraft → typ. **> ~5° Breite** (~550 km vom Äquator),
+  * **geringe vertikale Windscherung**. 
+
+### 3) Tornados
+
+* Auftreten/Statistik + **Enhanced Fujita-Skala (EF0–EF5)** als Schadens-/Intensitätsskala. 
+* Physikalische Einbettung: Zusammenhang mit Superzellen/Gewittern (CAPE/CIN, Fronten) wird als „Erinnerung“ genutzt. 
+
+### 4) Dürren
+
+* Dürre = Klimaereignis über **Monate–Jahre** mit unterdurchschnittlichem Wasserhaushalt („weniger Wasser verfügbar als erforderlich“). 
+* **Vier Dürretypen**:
+
+  1. meteorologisch (lang anhaltend zu wenig Niederschlag ggü. Referenz),
+  2. hydrologisch (Grund-/Oberflächenwasser unterdurchschnittlich; oft länger anhaltend),
+  3. landwirtschaftlich (Oberboden trocken → Ertrag),
+  4. sozio-ökonomisch (Wassermangel → Einschränkungen Wirtschaft/Energie). 
+* Fallbeispiel/Dimension: **Sahel-Dürre (1970–80er)** wird als prägendes Ereignis thematisiert. 
+
+### 5) Hitzewellen
+
+* Kernaussage: **keine einheitliche Definition**; Beispiele:
+
+  * WMO/WHO: mehrere Tage ungewöhnlich heiß (trocken oder schwül) mit messbarem Einfluss,
+  * DWD: mehrtägige Periode mit ungewöhnlich hoher thermischer Belastung. 
+* Auswirkungen: gesundheitliche Belastung, Mortalität; für Berlin wird u. a. die Kopplung Hitze–Ozon und betroffene Gruppen (>65) betont. 
+* Langzeittrends/Mechanismen: Zunahme heißer Bedingungen durch **Mittelwert- und Varianzerhöhung** → mehr/ längere Hitzewellen. 
+* Frage „mehr Hitzewellen in der Stadt?“ wird explizit aufgegriffen (Stadt–Umland-Kontrast). 
+
+---
+
+## Klima_06 – Klimawandel
+
+### 1) Beobachtungsperspektive (was ändert sich?)
+
+* Überblick über beobachtete/rekonstruierte Änderungen (Temperatur in sehr langen Zeitskalen, Niederschlag der letzten ~120 Jahre, Eisschilde/Meereis, Meeresspiegel, Wind). 
+
+### 2) Treibhauseffekt („undichter Eimer“)
+
+* Ohne Atmosphäre: Strahlungsgleichgewicht bei ca. **−18 °C**.
+* Mit Treibhausgasen: +**32–33 °C** → ca. **14–15 °C** globales Mittel. 
+* Beitragsspannen am Treibhauseffekt:
+
+  * Wasserdampf **39–72 %**
+  * CO₂ **19–24 %**
+  * weitere Gase **7–9 %** 
+* Hintergrund: Absorptionsbanden/Physik (kurz- vs. langwellig; Rotation/Vibration). 
+
+### 3) CO₂-Anstieg & Emissionen
+
+* CO₂: vorindustriell ~**280 ppm**, **2025 ~426 ppm** (~+50 %, „Keeling Curve“). 
+* Zusätzlich: Emissionstrends, Top-Emittenten, territorial vs. konsum-basiert (als Konzepte). 
+
+### 4) Globaler Kohlenstoffkreislauf
+
+* Darstellung von Reservoiren/Flüssen + „Schicksal des Kohlenstoffs“ in jüngeren Dekaden; **Quellen und Senken** (Land/Ozean) als zentrale Bilanzidee.
+
+### 5) Klimaszenarien, Projektionen, Modelle
+
+* **SSP-Szenarien (Shared Socioeconomic Pathways)** als mögliche Entwicklungspfade (SSP1–SSP5) + Kopplung an Ziel-Strahlungsantrieb (z. B. **SSP2-4.5**). 
+* **Wichtiges Prüfungsprinzip**: Kein Szenario ist „per se“ wahrscheinlicher; Projektionen sind **keine Wettervorhersage**.
+* **GCMs (Global Circulation Models)** + daraus abgeleitete **Klimaprojektionen** (Temperatur, Niederschlag, Extreme, Starkniederschlag/Dürre). 
+* **Attribution** (natürlich + anthropogen) als Konzept, v. a. bei Extremereignissen. 
+
+### 6) Kippelemente (Tipping Points)
+
+* Kipppunkte = kritische Schwellen, ab denen Systeme in einen neuen Zustand übergehen können (mit möglichen Rückkopplungen/Kaskaden).
+
+---
+
+## Klima_07 – Stadtklima
+
+### 1) Warum Stadtklima?
+
+* Städte: hohe Bevölkerungsdichte, starke Landoberflächen-Umgestaltung, hohe Verwundbarkeit gegenüber Wetter-/Klimaauswirkungen; Modelle bilden Städte oft unzureichend ab → Prozessverständnis + gute Daten sind essenziell. 
+
+### 2) Leitfragen der Stadtklimatologie
+
+* Wie unterscheidet sich Stadtwetter/-klima vom Umland?
+* Wie stark ist die **intra-urbane Variabilität**?
+* Welche Prozesse verursachen Unterschiede?
+* Wie messen/modellieren wir das?
+* Welche Auswirkungen auf Gesundheit/Planung/Ökosysteme/Emissionen? 
+
+### 3) „Was ist die Stadt?“ – Skalen & Definitionen
+
+* Stadt nicht nur administrativ, sondern als mehrskaliges System (z. B. „Built-up“ vs. Vegetation/Wasser; unterschiedliche Betrachtungsfenster A/B/C-Skalen). 
+
+### 4) Urbane Wärmeinsel (UHI)
+
+* Fokus u. a. **canopy-layer UHI** (Wärmeinsel innerhalb der bebauten Rauigkeitsschicht). 
+* UHI auf **Zeit- und Raumskalen** (z. B. Tag/Nacht-Unterschiede; lokale Hotspots; Advektion städtischer Wärme).
+* Energetische Basis/Mechanik wird über **Energiebilanz-Logik** gedacht: Strahlungsbilanz und turbulente Flüsse (Q* → QH/QE/QG) als Prozessrahmen. 
+
+### 5) Messen in der Stadt: Netze, Crowdsourcing, Qualität
+
+* Messansätze: Monitoring-Netze, intensive Messkampagnen, hochaufgelöste räumliche Netze; zusätzlich **Crowdsourcing (Citizen Weather Stations, CWS)**. 
+* CWS-Plattformen/Beispiele + Größenordnung (viele Stationen möglich).
+* Hauptfehlerquellen bei CWS:
+
+  * Metadaten, Indoor-Standorte, Strahlungsfehler, Verbindungsabbrüche, temporäre Standortwechsel etc.
+  * Quality Control: Referenzdaten + „wisdom of crowds“-Ansätze.
+
+### 6) Anwendungen (warum das relevant ist)
+
+* **Intra-urbane Temperaturvariabilität** (v. a. nachts teils starke UHI nach heißen Tagen). 
+* Hochaufgelöste Kartierung/Gap-Filling (inkl. ML-Ansätze), Nutzung für Vorhersage/Nowcasting-ähnliche Anwendungen. 
+* Beispiele wie nächtliche Abkühlung in Kleingärten u. ä. als kleinräumige Klima-„Oasen“. 
+
+### 7) Weitere urbane Modifikationen
+
+* **Wind/Turbulenz** (Straßenschluchten, Rauigkeit; Änderungen zwischen offenen Standorten und canopy-Sites). 
+* **Wolken/Nebel/Niederschlag**: urbane Einflüsse (z. B. weniger bodennaher Nebel in der Stadt; mögliche Niederschlagsmodifikationen).
+
+### 8) Planung & Anpassung
+
+* „Climate-sensitive planning and design“: Maßnahmen sollen **Co-Benefits maximieren** und **Trade-offs vermeiden** (z. B. Kühlung vs. andere Zielkonflikte). 
+
+---
+
+## Prüfungsrelevanter „roter Faden“ (wenn du daraus lernen willst)
+
+Typische „Klausur-Denkmuster“ im Klima-Teil sind:
+
+* **Begriffe sauber unterscheiden** (Wetter/Witterung/Klima; Elemente/Faktoren; Variabilität intern/extern).
+* **Prozessketten erklären**: Strahlungsbilanz → Energieungleichgewicht → Zirkulation → Niederschlag/Temperaturmuster.
+* **Telekonnektionen/Indizes** (ENSO/NAO/AO/PDO) definieren + grob erklären, was sie „steuern“.
+* **Extreme**: Definitionen/Skalen + Entstehungsbedingungen (z. B. Wirbelsturm-Bedingungen; Dürretypen; Heatwave-Definitionen).
+* **Klimawandel**: Treibhauseffekt-Zahlen, CO₂-Entwicklung, Szenario vs. Projektion vs. Wettervorhersage, Kippelement-Prinzip.
+
+Wenn du willst, kann ich dir als nächsten Schritt daraus auch ein **„Prüfungs-Lernskript“** machen: gleiche Inhalte, aber in **Frage-Antwort-Form** (Definition → Mechanismus → Beispiel → typische Stolperfallen).

@@ -1,0 +1,32 @@
+Hier ist eine detaillierte Zusammenfassung der meteorologischen Themen der ersten Semesterhälfte, strukturiert nach den behandelten Schwerpunkten:
+
+### 1. Grundlagen und Aufbau der Atmosphäre
+*   **Skalen und Einheiten:** Die Meteorologie nutzt die Orlanski-Skala zur Einteilung atmosphärischer Prozesse: Mikroskala (< 2 km), Mesoskala (2 km – 2000 km) und Makroskala (> 2000 km). Als Basiseinheiten dienen das SI-System (Sekunde, Kelvin, Pascal).
+*   **Vertikale Gliederung:** Die Atmosphäre wird primär nach dem Temperaturverlauf eingeteilt: Troposphäre (Temperaturabnahme), Stratosphäre (Temperaturzunahme durch Ozonbildung), Mesosphäre und Thermosphäre.
+*   **Luftdruck:** Der Druck ist das Gewicht der darüberliegenden Luftsäule (ca. 10.000 kg/m² auf Meeresniveau). Er nimmt mit der Höhe exponentiell ab, was durch die barometrische Höhenformel beschrieben wird.
+
+### 2. Strahlung und Energiebilanz
+*   **Strahlungsgesetze:** Kurzwelliges Licht (Sonne, < 3 µm) und langwellige Wärmestrahlung (Erde, > 3 µm) sind entscheidend. Das Kirchhoffsche Gesetz besagt, dass das Absorptionsvermögen dem Emissionsvermögen entspricht.
+*   **Strahlungsbilanz ($Q^*$):** Sie berechnet sich aus der Differenz von einfallender und reflektierter Kurzwellenstrahlung sowie einfallender und ausgestrahlter Langwellenstrahlung ($Q^* = K\downarrow - K\uparrow + L\downarrow - L\uparrow$).
+*   **Albedo:** Das Reflexionsvermögen von Oberflächen. Die globale Albedo liegt bei ca. 0,3.
+
+### 3. Luftfeuchtigkeit, Wolken und Niederschlag
+*   **Feuchtigkeitsmaße:** Der Dampfdruck ($e$) ist der Partialdruck des Wasserdampfs. Der Sättigungsdampfdruck ($E$) ist temperaturabhängig – je wärmer die Luft, desto mehr Wasserdampf kann sie aufnehmen. Der Taupunkt ist die Temperatur, bei der Sättigung eintritt.
+*   **Wolkenbildung:** Wolken entstehen, wenn Luftpakete durch Abkühlung (Aufstieg), Mischung oder Feuchtezufuhr gesättigt werden. Sie werden nach Familien (Höhe) und Gattungen klassifiziert.
+*   **Niederschlag:** Die Bildung erfolgt primär durch den Wegener-Bergeron-Findeisen-Prozess (Eiskristallwachstum in Mischwolken) oder durch Kollision und Koaleszenz von Tropfen.
+
+### 4. Thermodynamik und Schichtung
+*   **Adiabatische Prozesse:** Luft kühlt beim Aufstieg trockenadiabatisch um ca. 9,8 K/km ab, solange keine Kondensation eintritt. Feuchtadiabatisch ist die Abkühlung geringer (ca. 5–7 K/km), da Kondensationswärme frei wird.
+*   **Stabilität:** Ein Luftpaket steigt auf (instabil), wenn es wärmer als die Umgebung ist, und sinkt ab (stabil), wenn es kälter ist.
+*   **Energieflüsse:** Die verfügbare Energie ($Q^*$) wird in den sensiblen Wärmestrom ($Q_H$, Temperaturänderung), den latenten Wärmestrom ($Q_E$, Verdunstung) und den Bodenwärmestrom ($Q_G$) aufgeteilt.
+
+### 5. Dynamik und Luftmassen
+*   **Windentstehung:** Wind wird durch Druckgradientkraft, Corioliskraft und Reibung gesteuert.
+*   **Druckgebiete:** Man unterscheidet thermische (durch lokale Erwärmung) und dynamische Hoch- und Tiefdruckgebiete (durch Konvergenz/Divergenz in der Höhe).
+*   **Fronten:** Luftmassen sind einheitliche Bereiche der Troposphäre. Fronten bilden die Grenzen zwischen ihnen (z. B. Warm- oder Kaltfronten).
+
+### 6. Planetare Grenzschicht (PBL)
+*   **Struktur:** Die PBL ist die unterste Schicht (~2 km), die direkt durch die Erdoberfläche beeinflusst wird.
+*   **Tagesgang:** Tagsüber bildet sich eine gut durchmischte konvektive Grenzschicht (CBL) aus. Nachts entsteht bodennah eine stabile Grenzschicht (SBL), über der oft eine Residualschicht (RL) verbleibt. Eine "Capping Inversion" am oberen Rand unterdrückt die Durchmischung mit der freien Atmosphäre.
+
+Das war ein recht umfangreicher Überblick! Bevor wir tiefer in ein bestimmtes Thema einsteigen: Wie sicher fühlst du dich bereits mit diesen Inhalten, und hast du für die Klausurvorbereitung ein spezielles Ziel (z. B. Fokus auf Berechnungen oder eher Verständnis der Prozesse)?
