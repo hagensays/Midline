@@ -1,3 +1,5 @@
+*non of this is written by hand*
+
 # Midline
 
 Midline is a browser-based horizontal auto-scroll reader.
